@@ -24,9 +24,6 @@ df=pd.read_excel('data.xlsx')
 Then write the following command:
 multivariate_freq_dist(df, 'bioistatistik_notu', 'lise_basarisi', 5)
 
-
-https://raw.githubusercontent.com/nildenist/multivariate_freq_dist/master/multivariate_freq_dist_for_github.png
-
 <img src="/images/multivariate_freq_dist_for_github.png" 
 data-canonical-src="https://user-images.githubusercontent.com/28653377/75344783-65936880-58ac-11ea-97fd-ccd0f62b7c51.png" />
 

@@ -19,9 +19,12 @@ The function takes 4 parameters: <br/>
 multivariate_freq_dist(given_df, given_series1, given_series2, m)
 
 # Example:
-https://www.kaggle.com/carrie1/ecommerce-data
+Please upload the data file in the files section.
 df=pd.read_excel('data.xlsx')
-multivariate_freq_dist(df, "UnitPrice", "Quantity", None)
+Then write the following command:
+multivariate_freq_dist(df, 'bioistatistik_notu', 'lise_basarisi', 5)
+
+
 
 
 

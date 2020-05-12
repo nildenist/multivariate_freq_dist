@@ -1,6 +1,6 @@
 # multivariate_freq_dist
 
-When you use the crossstab function in Python, you get a pivot table of two variables. 
+When you use the crosstab function in Python, you get a pivot table of two variables. 
 The index of this pivot table consists of the index parameter in which you write the pivot table function. 
 When we want these index values to be a frequency distribution range, the crosstab or pivot functions in Python cannot 
 respond to this need. This function is written to meet this need and is a pivot table function where two variables can be 

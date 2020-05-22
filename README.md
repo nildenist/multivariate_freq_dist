@@ -27,3 +27,7 @@ multivariate_freq_dist(df, 'bioistatistik_notu', 'lise_basarisi', 5)
 <img src="/images/multivariate_freq_dist_for_github.png" 
 data-canonical-src="https://user-images.githubusercontent.com/28653377/75344783-65936880-58ac-11ea-97fd-ccd0f62b7c51.png" />
 
+References:
+1. Semra ORAL ERBAŞ, Olasılık ve İstatistik
+2. E. Alptekin ESIN, Sağlık Bilimlerinde İStatistik
+

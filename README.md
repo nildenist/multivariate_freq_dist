@@ -29,5 +29,5 @@ data-canonical-src="https://user-images.githubusercontent.com/28653377/75344783-
 
 References:
 1. Semra ORAL ERBAŞ, Olasılık ve İstatistik
-2. E. Alptekin ESIN, Sağlık Bilimlerinde İStatistik
+2. E. Alptekin ESIN, Sağlık Bilimlerinde İstatistik
 
